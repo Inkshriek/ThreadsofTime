@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/slab",
-  "textures": {
-    "bottom": "ars_nouveau:block/archwood_planks",
-    "top": "ars_nouveau:block/archwood_planks",
-    "side": "ars_nouveau:block/archwood_planks"
-  }
-}

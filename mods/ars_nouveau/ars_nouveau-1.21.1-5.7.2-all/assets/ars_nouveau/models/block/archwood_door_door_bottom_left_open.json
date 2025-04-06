@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/door_bottom_left_open",
-  "textures": {
-    "bottom": "ars_nouveau:block/archwood_door_bottom",
-    "top": "ars_nouveau:block/archwood_door_top"
-  }
-}
