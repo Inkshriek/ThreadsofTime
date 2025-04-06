@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "better_together"
+	group: "2696239202E54DEC"
+	id: "3B16B465B2B19B8C"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+}

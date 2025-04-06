@@ -1,0 +1,4 @@
+#Should initial recipes be generated?
+generateRecipes = true
+#Should initial recipes be generated?
+generateUsesRecipes = true

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: ArsNouveau
+Specification-Vendor: baileyh
+Specification-Version: 1
+Implementation-Title: Ars-Nouveau
+Implementation-Version: 5.7.2
+Implementation-Vendor: baileyh
+Implementation-Timestamp: 2025-03-22T17:09:46-0500
+MixinConfigs: ars_nouveau.mixins.json
+

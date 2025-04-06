@@ -1,0 +1,290 @@
+{
+	chapter.2C280252705F4A98.title: "Magical Potential"
+	chapter.318A931D95F65048.title: "Your Spell Book"
+	chapter.3B16B465B2B19B8C.title: "Better Together"
+	chapter.56AFEE98B17CCD47.title: "Introduction"
+	chapter.76C68225905650F3.title: "Changing Time"
+	chapter.776E702A2A78FE88.title: "Kinetic Endeavors"
+	chapter_group.2696239202E54DEC.title: "The Beginning"
+	file.0000000000000001.title: "Threads of Time"
+	quest.00324EBF353C4647.quest_desc: ["A hand crank is a simple solution if you wish to solve some kinetics concerns right away. Though it isn't a lasting one."]
+	quest.00324EBF353C4647.quest_subtitle: "Craft a hand crank, useful for quick power."
+	quest.00324EBF353C4647.title: "Temporary Solution"
+	quest.098C88D3D7B9D8FB.quest_desc: [
+		"It may not seem like it at first glance, but kelp has quite a number of uses, including being an ingredient in &9item transfer&r."
+		""
+		"Grab yourself several stacks and run them through a furnace for later."
+	]
+	quest.098C88D3D7B9D8FB.quest_subtitle: "Gather kelp from your local ocean."
+	quest.098C88D3D7B9D8FB.title: "Find Kelp"
+	quest.0A142DA1D8DF208F.quest_desc: ["Have you seen some strange trees in the overworld? The large, daunting ones with vibrant colors? You may have even seen a forest of them, or maybe you haven't yet. But you'll want to chop a few down. Charged with magic, archwood is important to the construction of &emagical machines&r. It's also just excellent for wood in general."]
+	quest.0A142DA1D8DF208F.quest_subtitle: "Obtain any kind of archwood log."
+	quest.0A142DA1D8DF208F.title: "Find Archwood"
+	quest.0C9F1F8837DAE194.quest_desc: [
+		"To begin crafting Instants, you only need some sand, magebloom fibers, and manipulation essence. All of these can be automated early."
+		""
+		"To automate crafting Instants, you can do so most efficiently by first &oliquefying the manipulation essence&r, and then mixing them all together. This can be done easily using a heated mixer."
+	]
+	quest.0C9F1F8837DAE194.title: "Instants"
+	quest.0E30DCBABBC46E3F.quest_desc: [
+		"&dSource Gems&r are used in a great number of magical crafts throughout your journey. You will want a lot of these."
+		""
+		"If you have stone, which is made by smelting cobblestone, you can craft them into &dSourcestone&r with a Source Gem. &eYou will need Sourcestone for making an Enchanting Apparatus and Arcane Core&r, necessary for crafting powerful magical items, including your own spellbook."
+	]
+	quest.0E30DCBABBC46E3F.quest_subtitle: "Obtain a Source Gem, the basis of all magic."
+	quest.0E30DCBABBC46E3F.title: "The Source"
+	quest.137244833ADD28CA.title: "Eternity"
+	quest.14EA380934DE4166.quest_desc: [
+		"Beyond the stars are peculiar things, &csome of which found their way deep beneath the seas and the earth&r. You must assemble this energy into a greater span of time, an Eon."
+		""
+		"Be prepared to brave the Undergarden for this step."
+	]
+	quest.14EA380934DE4166.title: "Eons"
+	quest.1681C32E7C923CC6.quest_desc: [
+		"The &dSource Gem&r is perhaps the most important of all resources that you will be making with Imbuement Chambers. Place a piece of &9lapis lazuli or amethyst&r, and it will craft into a Source Gem. Note that each chamber only crafts one at a time."
+		""
+		"A class of resource called &aessences&r are also crafted using Imbuement Chambers. &9There are nine different essences&r, each craftable by placing &oat least three&r Arcane Pedestals around the chamber. You will need to place three items corresponding to the essence on the pedestals before inserting a Source Gem into the chamber. Some particularly rare items are also crafted this way."
+		""
+		"Note that when crafting with Imbuement Chambers, &othe items on pedestals are not consumed after crafting,&r making them reusable."
+	]
+	quest.1681C32E7C923CC6.quest_subtitle: "Obtain an Imbuement Chamber, used for making many valuable reagents."
+	quest.1681C32E7C923CC6.title: "The Power of Imbuement"
+	quest.17CFCEEA45507530.quest_desc: [
+		"Threads of Time isn't just nonlinear tech progression. You also have a goal to reach. And that goal is &bEternity&r."
+		""
+		"&eThere are six stages of progression&r, wherein you must make manufacture six widening spans of time in the form known as &oEphemera&r. These require mastery of both technology and magic, the two being interwoven in each processing step."
+		""
+		"The purpose is to bridge access to increasingly more powerful items, including bottles which speed up time, advanced ender machines, fantastical relics, and blocks which entangle two positions in space. You may even gain access to certain &dcreative items.&r"
+		""
+		"This is a self-paced challenge you can undertake at any time, &ebut it is recommended to start once you have acquired brass. &cThe second tier and onwards will require Nether access.&r"
+		""
+		"Best of luck in your journey. It will be worth it."
+	]
+	quest.17CFCEEA45507530.quest_subtitle: "All the information you'll need."
+	quest.17CFCEEA45507530.title: "The Journey of Time"
+	quest.1CB37A9A440731CE.quest_desc: ["When an Enchanting Apparatus is placed on top of an Arcane Core, you may now begin "]
+	quest.1CB37A9A440731CE.quest_subtitle: "Obtain an Enchanting Apparatus and Arcane Core, used for enchanting crafts."
+	quest.1CB37A9A440731CE.title: "The Power of Enchantment"
+	quest.1FA0FC695EE6E623.quest_desc: [
+		"You may turn Instants into Moments using sequenced assembly. But you will need to use an hourglass as the base ingredient."
+		""
+		"Once you already have Instants, &cyou need only one other ingredient: &eLumisene.&r This strange and bright fluid acts as an excellent catalyst. You need only farm glowberries and place them beneath a mixer. Usefully, glowberries can also be processed into glowstone dust for other needs."
+	]
+	quest.1FA0FC695EE6E623.title: "Moments"
+	quest.2627CA3DB8A712C5.quest_desc: [
+		"With an archmage's spell book in hand, all glyphs are now accessible to you, including &dTier III&r. Incredibly powerful offensive and mobility spells are at your disposal, as well as some new conveniences."
+		""
+		"Now it's time to collect every glyph. Feel free to do so at your own pace. Once you have, &osome new power will become available&r."
+	]
+	quest.2627CA3DB8A712C5.quest_subtitle: "Craft an archmage's spell book. This is just the beginning."
+	quest.2A00CC5D90710963.quest_desc: [
+		"These items are capable of relaying &9Rotational Force&r, generated from certain objects such as water wheels and windmills. It is important to have them and understand how to use them."
+		""
+		"Have you &6Pondered&r yet? If you want a visual explanation on how cogwheels and shafts connect together to transfer power, &6please hold [W]&r over them while they're in your inventory."
+	]
+	quest.2A00CC5D90710963.quest_subtitle: "Craft a cogwheel, large cogwheel, and a shaft."
+	quest.2A00CC5D90710963.title: "Kinetic Transfer"
+	quest.2B800B02A5424B57.quest_desc: ["These are rather easy to overlook. They look quite similar to normal stone, and normally that's all they are. But hold onto it tight, as it'll be important &6with iron (or zinc)&r in hand."]
+	quest.2B800B02A5424B57.quest_subtitle: "Mine andesite blocks."
+	quest.2B800B02A5424B57.title: "Find Andesite"
+	quest.2C95C5AABB296071.quest_desc: [
+		"They say gold is a valuable material for use in many magical items. Especially machines. You will want to have an ample stock of them for crafting &emagical machines&r, a necessity for getting valuable things for your mystical ends."
+		""
+		"Ah, on another note, you may find piles of gold lying around sometimes. &oBeware of their winged protectors...&runless of course you're looking for a pyre supplier."
+	]
+	quest.2C95C5AABB296071.quest_subtitle: "Obtain gold ingots. Shiny."
+	quest.2C95C5AABB296071.title: "Find Gold"
+	quest.2EA547E4156EACFB.quest_desc: [
+		"You've come far, once you reach this point. But you have one more spell book upgrade waiting for you."
+		""
+		"&6Progress through the &eChanging Time&r &6chapter and return once you're done.&r"
+	]
+	quest.2EA547E4156EACFB.quest_subtitle: "Obtain every glyph in the game."
+	quest.2EA547E4156EACFB.title: "True Archmage"
+	quest.2F73C8824EF76906.quest_desc: [
+		"&6Water wheels&r may be used to generate kinetic power through the motion of water. Place flowing water at the sides of the water wheel to make it spin."
+		""
+		"You may also upgrade these to &6large water wheels&r, generating twice the force, but at half the speed."
+		""
+		"Keep note that water wheels, for now, are rather inefficient. &oYou'll have a way to upgrade them further later&r."
+	]
+	quest.2F73C8824EF76906.quest_subtitle: "Craft a water wheel, essential for hydraulic power."
+	quest.3791D162F8C921A3.quest_desc: ["&6Windmill bearings&r may be used to generate kinetic power through wind. You can assemble a windmill by placing one block on the sticky end of the bearing, and surrounding it with &9at least 8 windmill sails&r. More sails will increase the power of the windmill."]
+	quest.3791D162F8C921A3.quest_subtitle: "Craft a windmill bearing, required for drawing wind power."
+	quest.37ACE42A6E56EE78.quest_desc: [
+		"A spell book is a vital tool for your progression. With a spell book in hand, you're able to assemble spells and start expanding your access to what are known as &dglyphs&r. You may be able to see the recipe for a novice spell book by using the search bar at the bottom in your inventory."
+		""
+		"Once you complete this quest, you'll gain access to a chapter where you can see your glyph collection progress, and can then start undertaking quests to explore kinetics and magic. Look to the quests on the left and right when you're there."
+		""
+		"Note that regardless of which path you take, &othere is always progress to be made in your spell book&r. You'll find that it takes both to achieve true mastery."
+	]
+	quest.37ACE42A6E56EE78.quest_subtitle: "Combine various elements together upon a book and become a novice mage."
+	quest.37ACE42A6E56EE78.title: "Your First Spell Book"
+	quest.3BDBF23537BF3037.quest_desc: [
+		"You can get your first casing using andesite alloy by &9right-clicking a stripped log&r. This will give you &6Andesite Casing&r, a necessary block for your first machines. There are four types of casings in total that you'll learn about later."
+		""
+		"Casings can also be used to &osurround shafts and cogwheels&r, allowing you to control their connections more precisely and make them look nicer."
+	]
+	quest.3BDBF23537BF3037.quest_subtitle: "Obtain Andesite Casing, a covering for many machines."
+	quest.3BDBF23537BF3037.title: "Encased"
+	quest.3BEC538A9BE1509B.title: "Continuums"
+	quest.3CBEA2C1D369902B.quest_desc: [
+		"Let's hope you got plenty of iron, zinc, and andesite for what comes next, for you'll be needing it to craft a &7particular alloy&r."
+		""
+		"When you're ready to see what kinetic machines hold for you with Create, &echeck off this quest and the questline will be revealed&r."
+	]
+	quest.3CBEA2C1D369902B.quest_subtitle: "Unleash your inner artificer."
+	quest.3D8E9E241C26E7FD.quest_desc: [
+		"Normally a decorative material, you'll find some uses for copper later on, including &9fluid transfer&r and conducting lightning. Try to keep a good supply of these."
+		""
+		"Speaking of lightning, caution must be advised. &oStray piles of copper may not be a good sign&r."
+	]
+	quest.3D8E9E241C26E7FD.quest_subtitle: "Obtain copper ingots."
+	quest.3D8E9E241C26E7FD.title: "Find Copper"
+	quest.4024E50852C08BF7.quest_desc: [
+		"Always have to make that first step. From here, you'll want to start getting some minerals; you should especially be on the lookout for &egold&r, &7iron&r, &damethyst&r, &9lapis&r, and &6andesite&r. But don't forget to mine other minerals as you find them."
+		""
+		"Below you'll find a starter materials checklist. In general, these are the materials you'll need the most throughout your early days, so ensure you pick up a comfortable supply."
+		""
+		"Some of them will also be needed to craft a &dnovice spell book&r."
+	]
+	quest.4024E50852C08BF7.quest_subtitle: "Craft a pickaxe and mine your first stone."
+	quest.4024E50852C08BF7.title: "Get to Mining!"
+	quest.40CCBA2B93A87314.quest_desc: [
+		"A deeply precious gem responsible for some of the most excellent armaments. But it's also, sometimes, used in magic for expensive crafts."
+		""
+		"Mine &oat least&r one diamond to hold onto for later, as it'll be necessary for a &every important magical apparatus&r."
+	]
+	quest.40CCBA2B93A87314.quest_subtitle: "Diiiaaaaaaaaaamonds."
+	quest.40CCBA2B93A87314.title: "Find Diamonds"
+	quest.41A6C9ABFF64B412.quest_desc: [
+		"No longer are those middling mana concerns. With a creative spellbook, you have access to a complete arsenal of glyphs and infinite mana, allowing you to make any spell you wish, limited only by glyph slots. "
+		""
+		"You have reached the true end goal of Threads of Time. You've come a long way. Thank you for playing!"
+	]
+	quest.41A6C9ABFF64B412.quest_subtitle: "Craft the ultimate power: a creative spellbook."
+	quest.4A1F344B45B7ACC9.quest_desc: [
+		"With a mage's spell book, you gain access to &dTier II&r glyphs, which enable you to make powerful offensive spells and even some new automation ones."
+		""
+		"The next spell book upgrade, the archmage's spell book, will become accessible once you defeat the Ender Dragon. But take your time! No need to rush, for you've got quite a few glyphs to collect."
+	]
+	quest.4A1F344B45B7ACC9.quest_subtitle: "Craft a mage's spellbook."
+	quest.4A86937CC667B1DC.quest_desc: [
+		"A &6Mechanical Press&r is capable of pressing a variety of things into some sort of pressed form, namely ingots into a &9sheet&r. Sheets are used in a wide range of recipes, so you're going to want it."
+		""
+		"Note that you'll need to power the Mechanical Press to relaying &9Rotational Force&r to it."
+		""
+		"Next you'll want a wrench. Use some gold you've gathered to press into golden sheets, and assemble a wrench using them."
+	]
+	quest.4A86937CC667B1DC.quest_subtitle: "Craft a Mechanical Press, capable of pressing ingots into sheets!"
+	quest.4F05BC92B1ADC23D.quest_desc: [
+		"Have you made sure you have plenty of gold, diamonds, gems, and archwood? I sure hope you have."
+		""
+		"When you're ready to start progressing through the magic of Ars Nouveau (New Art), &echeck this off and the questline will be revealed&r. "
+	]
+	quest.4F05BC92B1ADC23D.quest_subtitle: "Ready for more magic?"
+	quest.4F05BC92B1ADC23D.title: "Magical Potential"
+	quest.55E0EDCF1B04ABE1.quest_desc: [
+		"Magic is a complex artform. It's quite fortunate that beneath the fold is ancient knowledge waiting to assist you. Knowledge IS power after all! "
+		""
+		"&dYou should have a Tattered Tome by now.&r As long as you hold this tome, you can hold &l[Ctrl]&r over most Ars Nouveau objects in your inventory to get more information on them."
+		""
+		"Check this off when you're ready to proceed."
+	]
+	quest.55E0EDCF1B04ABE1.quest_subtitle: "Start from here!"
+	quest.55E0EDCF1B04ABE1.title: "Foreword"
+	quest.590913B50C6A10C3.quest_desc: [
+		"With a novice's spell book, you have access to &dTier I&r glyphs, which allow you to make convenience spells such as reusable lights, block breaking, and some which deal damage."
+		""
+		"To begin making glyphs, &lyou must make a Scribe's Table&r. This can be done with only a little gold and archwood. Once you have one, right-click the table with your spell book to choose a glyph to craft."
+		""
+		"You may also upgrade your spell book. There are two dimensions you will have to visit for the next upgrade: &cthe Nether&r and &athe Undergarden&r. You can expect to visit the Nether with flint and steel on an obsidian frame, but for the Undergarden, you will need a Catalyst and a stone brick frame. &oStrange things await you in these places...&r"
+	]
+	quest.590913B50C6A10C3.quest_subtitle: "Craft a novice spell book."
+	quest.5B93F68887FEFDB8.quest_desc: [
+		"&6Andesite Alloy&r is the most basic and necessary resource for making kinetic contraptions and machines. You can craft it by placing iron or zinc nuggets&r and andesite into a crafting grid."
+		""
+		"With Andesite Alloy, you should start making &9cogwheels&r and &9shafts&r. These are your means to relaying &9Rotational Force&r, unique to kinetic machines. As stated before, you can find the recipes for these with the interface shown when viewing your inventory."
+		""
+		"To generate &9Rotational Force&r, for now, you'll want to craft either a water wheel or a hand crank. These have their own methods of generating power and are explained in the quests below."
+	]
+	quest.5B93F68887FEFDB8.quest_subtitle: "Obtain Andesite Alloy, the basis of all kinetics."
+	quest.5B93F68887FEFDB8.title: "Sturdier Rocks"
+	quest.5F146CD46DA7AEBF.quest_desc: [
+		"Iron is quite an integral material, useful for making tools, armor, and most notably &6andesite alloy&r. It's perhaps one of the most versatile metals available, and maybe even the most important."
+		""
+		"Make sure you're getting some &6andesite&r on the way."
+	]
+	quest.5F146CD46DA7AEBF.quest_subtitle: "Obtain iron ingots."
+	quest.5F146CD46DA7AEBF.title: "Find Iron"
+	quest.603BF14955DC9505.quest_desc: ["You may be used to this as a resource used for paper and bookmaking. But it's more than that, as books come up quite often in magic. So ensure you get some sugarcane to plant back at home."]
+	quest.603BF14955DC9505.quest_subtitle: "Pick up sugarcane, which grows beside water."
+	quest.603BF14955DC9505.title: "Find Sugarcane"
+	quest.6113D6243761FD9D.quest_desc: [
+		"Not just valuable for its color, this gemstone possesses some &dincredible magical qualities&r. You'll need yourself a lot of this, and &onot&r just for enchanting."
+		""
+		"Don't forget to get amethyst on the way."
+	]
+	quest.6113D6243761FD9D.quest_subtitle: "Obtain lapis lazuli. What an intense color..."
+	quest.6113D6243761FD9D.title: "Find Lapis Lazuli"
+	quest.65D82B803F2201E9.quest_desc: [
+		"Amethyst is a renewable source of magical power, thanks to its shards being a &dkey ingredient&r in certain crafts. Collect from fully grown amethyst buds in geodes found underground."
+		""
+		"By the way, &ldo not break the budding amethyst blocks&r. You'll need them to grow more, and later, &9make friends that can do the collecting for you&r."
+	]
+	quest.65D82B803F2201E9.quest_subtitle: "Obtain amethyst. Did you know it's technically a quartz?"
+	quest.65D82B803F2201E9.title: "Find Amethyst"
+	quest.6AEDE9BF5F786504.quest_desc: [
+		"A &6Wrench&r is quite important. You can use a Wrench to &9pop certain machines and kinetic mechanisms directly into your inventory&r with a right-click, removing the need to pull out your axe or pickaxe."
+		""
+		"Though in this state, it's only capable of doing just that. &oLater on, you can improve it to manipulate more magical things&r."
+		""
+		"Now that you've reached this point, the sky's the limit. Kinetics enables a wide variety of automation tasks that are otherwise difficult or impossible."
+	]
+	quest.6AEDE9BF5F786504.quest_subtitle: "Craft a Wrench, allowing you to pick up machines with a right-click!"
+	quest.6AEDE9BF5F786504.title: "Properly Equipped"
+	quest.71FCD5CADB1CA4C9.quest_desc: [
+		"Silver possesses some excellent value in making gear, and as such can be a great alternative to iron in this circumstance. Hold onto some for a few recipes down the line. "
+		""
+		"Curiously enough, &othere are certain winged beings that have a penchant for hoarding silver&r..."
+	]
+	quest.71FCD5CADB1CA4C9.quest_subtitle: "Obtain silver ingots."
+	quest.71FCD5CADB1CA4C9.title: "Find Silver"
+	quest.7869EDE8C1E4DC2F.quest_desc: [
+		"Now we must further expand our reach. A moment will only carry us so far. To craft an Epoch, we must now tap into events in time and combine such elements together using sequenced assembly."
+		""
+		"In the past, &cthese ancient archwood trees were once all that existed&r, until events long past led to great loss. Hone yourself to these events, for such powerful magic will lead you forward."
+		""
+		"You will need to make use of liquefied Source at this stage. You have a few different ways of making it, either directly or by using a Source Condenser."
+	]
+	quest.7869EDE8C1E4DC2F.title: "Epochs"
+	quest.7AE6C3289F250082.quest_desc: [
+		"&6Threads of Time&r is an open-ended artificing experience, focused on the art of magitech and the &6power of time&r. There is no strict linear progression, as most of the pack is available to you right from the start. Though don't let it overwhelm you, for this quest book is here to help you."
+		""
+		"The following quests serve as a guided introduction into the modpack. Please note that the modpack is still being developed, so new additions may come in the future!"
+		""
+		"Wondering how anything works? Remember, &4hold [W] to Ponder&r!"
+	]
+	quest.7AE6C3289F250082.quest_subtitle: "Start from here."
+	quest.7AE6C3289F250082.title: "Welcome to Threads of Time!"
+	quest.7B67193DA00F81CF.quest_desc: ["Zinc is a good alternative to iron for some mechanical recipes. You may wish to keep a supply of these in addition to iron. There's one &6very important alloy&r, above andesite alloy, you'll be making later that uses zinc."]
+	quest.7B67193DA00F81CF.quest_subtitle: "Obtain zinc ingots."
+	quest.7B67193DA00F81CF.title: "Find Zinc"
+	reward_table.2E5DF6C273401E31.title: "Relics"
+	task.00C3CC540127E9F3.title: "Any #c:gems/diamond"
+	task.13F440233E87AFC1.title: "Magical Potential"
+	task.213A14DD8C926967.title: "The Journey of Time"
+	task.226FAEEF8041488C.title: "Any #minecraft:pickaxes"
+	task.3F2494146AB8D9D0.title: "Any #c:gems/source"
+	task.3FDAA64D4E8A1BB6.title: "Any #c:ingots/zinc"
+	task.444E55B4D6DEE6F9.title: "Any #c:cobblestones"
+	task.46B9D1372D946E40.title: "Vast Machinery"
+	task.48DCD97A98BA5340.title: "Any #c:ingots/gold"
+	task.4AC22A1FFAD836A7.title: "Any #c:ingots/iron"
+	task.52B4ABEF9D61FD32.title: "Any #c:gems/amethyst"
+	task.580091A3006D4D3E.title: "Any #c:gems/lapis"
+	task.5D56B50E39712FD7.title: "Any #c:logs/archwood"
+	task.5FE5C88125281391.title: "Click to Start the Questline!"
+	task.6934468085AC9691.title: "Any #c:ingots/copper"
+	task.6EB852132A0540A5.title: "Kinetic Endeavors"
+}

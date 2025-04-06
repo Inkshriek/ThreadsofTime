@@ -1,0 +1,16 @@
+{
+  "jars": [
+    {
+      "identifier": {
+        "group": "com.hollingsworth.nuggets",
+        "artifact": "nuggets-neoforge-1.21"
+      },
+      "version": {
+        "range": "[1.0.4,)",
+        "artifactVersion": "1.0.4.35"
+      },
+      "path": "META-INF/jarjar/nuggets-neoforge-1.21-1.0.4.35.jar",
+      "isObfuscated": false
+    }
+  ]
+}

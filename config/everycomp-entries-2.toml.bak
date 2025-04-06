@@ -1,0 +1,121 @@
+#Disables certain types. Note that all these configs, like in any other mod, only hide stuff from tabs and disable their recipes
+[types]
+
+		[types.wood_type.ars_nouveau]
+			archwood = true
+
+		[types.wood_type.deeperdarker]
+			echo = true
+
+		[types.wood_type.undergarden]
+			smogstem = true
+			wigglewood = true
+			grongle = true
+
+		[types.wood_type.biomesoplenty]
+			fir = true
+			pine = true
+			maple = true
+			redwood = true
+			mahogany = true
+			jacaranda = true
+			palm = true
+			willow = true
+			dead = true
+			magic = true
+			umbran = true
+			hellbark = true
+			empyreal = true
+
+		[types.wood_type.iceandfire]
+			dreadwood = true
+
+		[types.leaves_type.ars_nouveau]
+			blue_archwood = true
+			green_archwood = true
+			purple_archwood = true
+			red_archwood = true
+
+		[types.leaves_type.deeperdarker]
+			echo = true
+
+		[types.leaves_type.undergarden]
+			smogstem = true
+			wigglewood = true
+			grongle = true
+
+		[types.leaves_type.ars_elemental]
+			yellow_archwood = true
+
+		[types.leaves_type.occultism]
+			otherworld = true
+
+		[types.leaves_type.biomesoplenty]
+			origin = true
+			flowering_oak = true
+			red_maple = true
+			orange_maple = true
+			yellow_maple = true
+			rainbow_birch = true
+			snowblossom = true
+			null = true
+			cypress = true
+			fir = true
+			pine = true
+			redwood = true
+			mahogany = true
+			jacaranda = true
+			palm = true
+			willow = true
+			dead = true
+			magic = true
+			umbran = true
+			hellbark = true
+			empyreal = true
+
+		[types.leaves_type.iceandfire]
+			dreadwood = true
+
+#Disables specific entries
+[entries]
+
+		[entries.wood_type.refurbished_furniture]
+			lattice_fence = true
+			basin = true
+			cutting_board = true
+			drawer = true
+			kitchen_drawer = true
+			storage_cabinet = true
+			lattice_fence_gate = true
+			table = true
+			kitchen_cabinetry = true
+			bath = true
+			mail_box = true
+			crate = true
+			desk = true
+			dark_ceiling_fan = true
+			kitchen_sink = true
+			chair = true
+			light_ceiling_fan = true
+			kitchen_storage_cabinet = true
+			toilet = true
+			storage_jar = true
+
+		[entries.wood_type.create]
+			window = true
+			window_pane = true
+
+		[entries.wood_type.farmersdelight]
+			cabinet = true
+
+		[entries.wood_type.storagedrawers]
+			trim = true
+			full_drawers_2 = true
+			half_drawers_1 = true
+			full_drawers_4 = true
+			half_drawers_4 = true
+			half_drawers_2 = true
+			full_drawers_1 = true
+
+		[entries.leaves_type.refurbished_furniture]
+			hedge = true

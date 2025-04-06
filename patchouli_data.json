@@ -1,0 +1,24 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "actuallyadditions:booklet": {
+      "viewedEntries": [
+        "actuallyadditions:intro",
+        "actuallyadditions:crystals",
+        "actuallyadditions:engineer_house"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "ars_nouveau:worn_notebook": {
+      "viewedEntries": [
+        "ars_nouveau:source/mycelial_sourcelink",
+        "ars_nouveau:source/alchemical_sourcelink",
+        "ars_nouveau:equipment/annotated_codex"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}
