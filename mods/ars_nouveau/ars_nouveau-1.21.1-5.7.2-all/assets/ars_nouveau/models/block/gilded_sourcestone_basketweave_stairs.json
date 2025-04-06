@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/stairs",
-  "textures": {
-    "bottom": "ars_nouveau:block/gilded_sourcestone_basketweave",
-    "side": "ars_nouveau:block/gilded_sourcestone_basketweave",
-    "top": "ars_nouveau:block/gilded_sourcestone_basketweave"
-  }
-}

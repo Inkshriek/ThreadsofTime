@@ -1,6 +1,0 @@
-{
-  "variants": {
-    "converted=false":{"model":"block/mossy_cobblestone"},
-    "converted=true": { "model": "ars_nouveau:block/drygmy_stone" }
-  }
-}

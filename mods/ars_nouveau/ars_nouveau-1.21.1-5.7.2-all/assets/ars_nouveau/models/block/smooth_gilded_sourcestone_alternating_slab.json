@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/slab",
-  "textures": {
-    "bottom": "ars_nouveau:block/smooth_gilded_sourcestone_alternating",
-    "side": "ars_nouveau:block/smooth_gilded_sourcestone_alternating",
-    "top": "ars_nouveau:block/smooth_gilded_sourcestone_alternating"
-  }
-}

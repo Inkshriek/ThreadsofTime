@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/button_pressed",
-  "textures": {
-    "texture": "ars_nouveau:block/archwood_planks"
-  }
-}
