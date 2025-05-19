@@ -36,11 +36,11 @@
 		[server.backpackSettings.leatherTierBackpack]
 			#Number of inventory slots for the tier
 			# Default: 27
-			# Range: 1 ~ 99
+			# Range: 1 ~ 154
 			inventorySlotCount = 27
 			#Number of upgrade slots for the tier
 			# Default: 2
-			# Range: 0 ~ 8
+			# Range: 0 ~ 10
 			upgradeSlotCount = 2
 			#Number of tool slots for the tier
 			# Default: 2
@@ -55,11 +55,11 @@
 		[server.backpackSettings.ironTierBackpack]
 			#Number of inventory slots for the tier
 			# Default: 45
-			# Range: 1 ~ 99
+			# Range: 1 ~ 154
 			inventorySlotCount = 45
 			#Number of upgrade slots for the tier
 			# Default: 3
-			# Range: 0 ~ 8
+			# Range: 0 ~ 10
 			upgradeSlotCount = 3
 			#Number of tool slots for the tier
 			# Default: 3
@@ -74,11 +74,11 @@
 		[server.backpackSettings.goldTierBackpack]
 			#Number of inventory slots for the tier
 			# Default: 63
-			# Range: 1 ~ 99
+			# Range: 1 ~ 154
 			inventorySlotCount = 63
 			#Number of upgrade slots for the tier
 			# Default: 4
-			# Range: 0 ~ 8
+			# Range: 0 ~ 10
 			upgradeSlotCount = 4
 			#Number of tool slots for the tier
 			# Default: 4
@@ -93,11 +93,11 @@
 		[server.backpackSettings.diamondTierBackpack]
 			#Number of inventory slots for the tier
 			# Default: 81
-			# Range: 1 ~ 99
+			# Range: 1 ~ 154
 			inventorySlotCount = 81
 			#Number of upgrade slots for the tier
 			# Default: 5
-			# Range: 0 ~ 8
+			# Range: 0 ~ 10
 			upgradeSlotCount = 5
 			#Number of tool slots for the tier
 			# Default: 5
@@ -112,11 +112,11 @@
 		[server.backpackSettings.netheriteTierBackpack]
 			#Number of inventory slots for the tier
 			# Default: 99
-			# Range: 1 ~ 99
+			# Range: 1 ~ 154
 			inventorySlotCount = 99
 			#Number of upgrade slots for the tier
 			# Default: 6
-			# Range: 0 ~ 8
+			# Range: 0 ~ 10
 			upgradeSlotCount = 6
 			#Number of tool slots for the tier
 			# Default: 6
@@ -131,6 +131,9 @@
 		enableTanksUpgrade = true
 		enableCraftingUpgrade = true
 		enableJukeboxUpgrade = true
+		enableFurnaceUpgrade = true
+		enableSmokerUpgrade = true
+		enableBlastFurnaceUpgrade = true
 
 		[server.backpackUpgrades.pickupUpgradeSettings]
 			enablePickupUpgrade = true

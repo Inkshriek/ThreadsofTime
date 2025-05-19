@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "solving_power"
+	group: "2696239202E54DEC"
+	id: "4FA89C52AC76C90F"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+}

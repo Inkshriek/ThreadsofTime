@@ -15,7 +15,10 @@
       "viewedEntries": [
         "ars_nouveau:source/mycelial_sourcelink",
         "ars_nouveau:source/alchemical_sourcelink",
-        "ars_nouveau:equipment/annotated_codex"
+        "ars_nouveau:equipment/annotated_codex",
+        "ars_nouveau:machines/warp_indexes",
+        "ars_nouveau:equipment/runic_chalk",
+        "ars_nouveau:automation/mimic_scroll"
       ],
       "bookmarks": [],
       "completedManualQuests": []

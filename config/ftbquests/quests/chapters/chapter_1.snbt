@@ -10,7 +10,6 @@
 	id: "56AFEE98B17CCD47"
 	images: [
 		{
-			alpha: 200
 			dependency: "37ACE42A6E56EE78"
 			height: 2.0d
 			image: "ars_nouveau:item/thread_bookwyrm"
@@ -20,7 +19,7 @@
 			y: -3.0d
 		}
 		{
-			alpha: 100
+			alpha: 150
 			height: 4.0d
 			image: "ftblibrary:icons/time"
 			rotation: 0.0d
@@ -540,7 +539,7 @@
 					id: "0455966697CBA346"
 					item: {
 						count: 1
-						id: "iceandfire:silver_ingot"
+						id: "occultism:silver_ingot"
 					}
 					type: "item"
 				}
@@ -554,7 +553,7 @@
 			size: 2.0d
 			tasks: [{
 				id: "7F362D533C2C4E77"
-				item: { count: 1, id: "iceandfire:silver_ingot" }
+				item: { count: 1, id: "occultism:silver_ingot" }
 				type: "item"
 			}]
 			x: 12.0d

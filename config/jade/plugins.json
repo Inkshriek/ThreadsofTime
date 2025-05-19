@@ -6,8 +6,8 @@
     "animal_owner": true,
     "harvest_tool.effective_tool": true,
     "energy_storage.style": "PROGRESS_BAR",
-    "item_storage.normal_amount": 9,
     "item_storage": true,
+    "item_storage.normal_amount": 9,
     "harvest_tool": true,
     "armor_stand": true,
     "fluid_storage.detailed": false,
@@ -52,6 +52,14 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "tempad": {
+    "chronon": true,
+    "rudimentary": true,
+    "anchor": true,
+    "metronome": true,
+    "workstation": true,
+    "timedoor": true
+  },
   "jadeaddons.create": {
     "filter": true,
     "backtank_capacity": true,
@@ -89,15 +97,19 @@
   "apotheosis": {
     "adventure": true
   },
-  "iceandfire": {
-    "multipart": true,
-    "dragon": true
+  "oregrowth": {
+    "ore_growth_hint": true,
+    "ore_growth_icon": true
   },
-  "balm": {
-    "jade": true
+  "occultism": {
+    "foliot": true,
+    "sacrificial": true
   },
   "apothic_enchanting": {
     "ench": true
+  },
+  "balm": {
+    "jade": true
   },
   "ars_nouveau": {
     "mob_jar": true
@@ -112,11 +124,17 @@
   "jadeaddons.lootr": {
     "info": true
   },
+  "reliquary": {
+    "pedestal": true,
+    "altar": true,
+    "mortar": true,
+    "cauldron": true
+  },
   "supplementaries": {
     "hat_stand": true
   },
-  "waystones": {
-    "waystone": true
+  "petrolpark": {
+    "contamination": true
   },
   "corpse": {
     "corpse": true

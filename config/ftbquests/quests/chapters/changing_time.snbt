@@ -113,6 +113,11 @@
 			]
 			hide_details_until_startable: true
 			id: "14EA380934DE4166"
+			rewards: [{
+				id: "6469B73616C07D0B"
+				type: "xp"
+				xp: 100
+			}]
 			shape: "gear"
 			size: 3.0d
 			tasks: [{
@@ -158,6 +163,8 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["7AE6C3289F250082"]
+			hide_until_deps_complete: true
 			icon: {
 				id: "supplementaries:hourglass"
 			}
@@ -178,6 +185,35 @@
 			}]
 			x: -2.25d
 			y: -4.624999999999989d
+		}
+		{
+			dependencies: ["0C9F1F8837DAE194"]
+			id: "764CA2586660AAEE"
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "05153568EBA8EADF"
+				item: { count: 1, id: "justdirethings:gooblock_tier1" }
+				type: "item"
+			}]
+			x: -11.25d
+			y: 2.25d
+		}
+		{
+			dependencies: [
+				"764CA2586660AAEE"
+				"1FA0FC695EE6E623"
+			]
+			id: "57B1A94412EC30FB"
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "781175261197B9E6"
+				item: { count: 1, id: "tempad:time_steel" }
+				type: "item"
+			}]
+			x: -6.75d
+			y: 2.25d
 		}
 	]
 }

@@ -18,19 +18,22 @@ StartupEvents.registry("item", e => {
     e.create("incomplete_fabric_of_time").maxStackSize(1);
     */
     
+    e.create("peculiar_steel").maxStackSize(64);
+    e.create("primordial_globule").maxStackSize(64);
+    e.create("paradoxical_reactant").maxStackSize(64);
     e.create("void_essence").maxStackSize(64).rarity("rare");
     e.create("drained_void_essence_1").maxStackSize(1)
-        .displayName("Partially Drained Void Essence");
+        .displayName("Slightly Drained Void Essence");
     e.create("drained_void_essence_2").maxStackSize(1)
         .displayName("Partially Drained Void Essence");
     e.create("drained_void_essence_3").maxStackSize(1)
-        .displayName("Partially Drained Void Essence");
+        .displayName("Mostly Drained Void Essence");
     e.create("drained_void_essence_4").maxStackSize(1)
         .displayName("Drained Void Essence");
-    e.create("timelost_sapling").maxStackSize(64)
+    e.create("timelost_figment").maxStackSize(64)
         .tooltip("Used in crafting Epochs");
-    e.create("dusty_sapling").maxStackSize(64)
-        .tooltip("Used for a Timelost Sapling");
+    e.create("ashen_sapling").maxStackSize(64)
+        .tooltip("Used for a Timelost Figment.");
     e.create("fascinating_crystal").maxStackSize(64)
         .tooltip("Used in crafting Eons");
     e.create("untold_experiences").maxStackSize(64)

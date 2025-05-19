@@ -23,6 +23,8 @@
 	can_VerticalWallRun = true
 	can_WallJump = true
 	can_WallSlide = true
+	can_HideInBlock = true
+	can_RideZipline = true
 
 [Stamina_HUD_Configuration]
 	#Allowed Values: Normal, Light, Hide
@@ -50,6 +52,8 @@
 	# Default: 0
 	# Range: -100 ~ 100
 	offset_v_light_hud = 0
+	#Stamina HUD shows action charge rate, cool time or etc
+	show_action_status_bar = true
 
 [Animations]
 	#Enable custom animations
@@ -100,6 +104,8 @@
 		enable_VerticalWallRunAnimator = true
 		enable_WallJumpAnimator = true
 		enable_WallSlideAnimator = true
+		enable_HideInBlockAnimator = true
+		enable_RideZiplineAnimator = true
 
 [Control]
 	#Control of Fast Run
@@ -127,11 +133,9 @@
 	enable_vault_in_air = true
 	#Enable getting off steps while doing dodge
 	can_get_off_steps_while_dodge = false
-	#Enable backward Wall-Jump when facing to wall
-	enable_wall_jump_backward = false
 	#Enable Roll when creative mode (experimental)
 	enable_roll_creative = false
-	#Make Vault Need Vault Key Pressed
+	#Make Vault need Vault Key Pressed
 	vault_needs_key_pressed = false
 	#enable players to do actions needing Fast-Running by sprint
 	substitute_sprint = false
@@ -147,6 +151,15 @@
 	# Default: 3
 	# Range: > 1
 	successive_dodge_count = 3
+	#Control of Cling To Cliff
+	#Allowed Values: PressKey, Toggle
+	cling-to-cliff_control = "PressKey"
+	#Make HideInBlock need player sneaking
+	hideinblock_needs_sneaking = true
+	#acceptable walll angle of wall jump : `0` means you exactly opposite to wall, `180` allow you to wall jump for all angle
+	# Default: 110
+	# Range: 0 ~ 180
+	acceptable_angle_wall_jump = 110
 
 [Modifier]
 	#How long you can do Horizontal Wall Run
@@ -187,11 +200,18 @@
 	enable_particles_jt_breakfall = true
 	#Whether ParCool is active
 	parcool_activation = true
+	#Enable block like rendering of zipline
+	enable_3d_render_zipline = true
+	#Notify if auto resynchronization of Limitation is executed
+	notify_limitation_auto_resync = true
 
 [Stamina]
 	#Caution : Max stamina and stamina recovery config is removed because they became attributes.
 	#Allowed Values: NONE, PARCOOL, HUNGER
 	used_stamina = "PARCOOL"
+	#Infinite Stamina (this needs a permission from server, even if it is on single player's game. normally permitted)
+	#Please check 'parcool-server.toml' in 'serverconfig' directory
+	infinite_stamina = false
 
 	[Stamina.Consumption]
 		# Default: 0
@@ -266,6 +286,9 @@
 		# Default: 8
 		# Range: 0 ~ 10000
 		stamina_consumption_of_WallSlide = 8
-		#Infinite Stamina (this needs a permission from server, even if it is on single player's game. normally permitted)
-		#Please check 'parcool-server.toml' in 'serverconfig' directory
-		infinite_stamina = false
+		# Default: 0
+		# Range: 0 ~ 10000
+		stamina_consumption_of_HideInBlock = 0
+		# Default: 2
+		# Range: 0 ~ 10000
+		stamina_consumption_of_RideZipline = 2

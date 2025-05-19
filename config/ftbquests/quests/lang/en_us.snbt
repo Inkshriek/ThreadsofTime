@@ -1,11 +1,9 @@
 {
-	chapter.2C280252705F4A98.title: "Magical Potential"
 	chapter.318A931D95F65048.title: "Your Spell Book"
-	chapter.3B16B465B2B19B8C.title: "Better Together"
+	chapter.4FA89C52AC76C90F.title: "1: Myriad Instants"
 	chapter.56AFEE98B17CCD47.title: "Introduction"
-	chapter.76C68225905650F3.title: "Changing Time"
-	chapter.776E702A2A78FE88.title: "Kinetic Endeavors"
-	chapter_group.2696239202E54DEC.title: "The Beginning"
+	chapter.76C68225905650F3.title: "A Path Through Time"
+	chapter_group.2696239202E54DEC.title: "Changing Time"
 	file.0000000000000001.title: "Threads of Time"
 	quest.00324EBF353C4647.quest_desc: ["A hand crank is a simple solution if you wish to solve some kinetics concerns right away. Though it isn't a lasting one."]
 	quest.00324EBF353C4647.quest_subtitle: "Craft a hand crank, useful for quick power."
@@ -35,9 +33,11 @@
 	quest.0E30DCBABBC46E3F.title: "The Source"
 	quest.137244833ADD28CA.title: "Eternity"
 	quest.14EA380934DE4166.quest_desc: [
-		"Beyond the stars are peculiar things, &csome of which found their way deep beneath the seas and the earth&r. You must assemble this energy into a greater span of time, an Eon."
+		"Perhaps you've seen what that &7strange goo&r is capable of by now, if you've crafted them. But the most powerful tier, Shadowpulse Goo, hides a fascinating secret: &athe power to transmute amethyst into time crystals.&r"
 		""
-		"Be prepared to brave the Undergarden for this step."
+		"We will need this power to expand our reach even further. Not only that, but we will need to assemble Chronon Batteries. If you haven't been making Time Steel, now is opportune."
+		""
+		"&cAutomating time crystals is complex&r, as the budding crystals must be charged by having them in the Overworld, the Nether, and then finally the End. Silk Touch is ineffective at lifting them, so how might it be done? &oPerhaps an Advanced Swapper...&r"
 	]
 	quest.14EA380934DE4166.title: "Eons"
 	quest.1681C32E7C923CC6.quest_desc: [
@@ -68,13 +68,13 @@
 	quest.1FA0FC695EE6E623.quest_desc: [
 		"You may turn Instants into Moments using sequenced assembly. But you will need to use an hourglass as the base ingredient."
 		""
-		"Once you already have Instants, &cyou need only one other ingredient: &eLumisene.&r This strange and bright fluid acts as an excellent catalyst. You need only farm glowberries and place them beneath a mixer. Usefully, glowberries can also be processed into glowstone dust for other needs."
+		"Once you already have Instants, &cyou need only one other ingredient: &eLumisene.&r This strange and bright fluid acts as an excellent catalyst. You need only farm glowberries and place them beneath a mixer, along with liquid Source. &dYou can get liquid Source via Source Condensers or by crafting it.&r Usefully, glowberries can also be processed into glowstone dust for other needs."
 	]
 	quest.1FA0FC695EE6E623.title: "Moments"
 	quest.2627CA3DB8A712C5.quest_desc: [
 		"With an archmage's spell book in hand, all glyphs are now accessible to you, including &dTier III&r. Incredibly powerful offensive and mobility spells are at your disposal, as well as some new conveniences."
 		""
-		"Now it's time to collect every glyph. Feel free to do so at your own pace. Once you have, &osome new power will become available&r."
+		"Now it's time to collect every glyph. Feel free to do so at your own pace."
 	]
 	quest.2627CA3DB8A712C5.quest_subtitle: "Craft an archmage's spell book. This is just the beginning."
 	quest.2A00CC5D90710963.quest_desc: [
@@ -87,20 +87,9 @@
 	quest.2B800B02A5424B57.quest_desc: ["These are rather easy to overlook. They look quite similar to normal stone, and normally that's all they are. But hold onto it tight, as it'll be important &6with iron (or zinc)&r in hand."]
 	quest.2B800B02A5424B57.quest_subtitle: "Mine andesite blocks."
 	quest.2B800B02A5424B57.title: "Find Andesite"
-	quest.2C95C5AABB296071.quest_desc: [
-		"They say gold is a valuable material for use in many magical items. Especially machines. You will want to have an ample stock of them for crafting &emagical machines&r, a necessity for getting valuable things for your mystical ends."
-		""
-		"Ah, on another note, you may find piles of gold lying around sometimes. &oBeware of their winged protectors...&runless of course you're looking for a pyre supplier."
-	]
+	quest.2C95C5AABB296071.quest_desc: ["They say gold is a valuable material for use in many magical items. Especially machines. You will want to have an ample stock of them for crafting &emagical machines&r, a necessity for getting valuable things for your mystical ends."]
 	quest.2C95C5AABB296071.quest_subtitle: "Obtain gold ingots. Shiny."
 	quest.2C95C5AABB296071.title: "Find Gold"
-	quest.2EA547E4156EACFB.quest_desc: [
-		"You've come far, once you reach this point. But you have one more spell book upgrade waiting for you."
-		""
-		"&6Progress through the &eChanging Time&r &6chapter and return once you're done.&r"
-	]
-	quest.2EA547E4156EACFB.quest_subtitle: "Obtain every glyph in the game."
-	quest.2EA547E4156EACFB.title: "True Archmage"
 	quest.2F73C8824EF76906.quest_desc: [
 		"&6Water wheels&r may be used to generate kinetic power through the motion of water. Place flowing water at the sides of the water wheel to make it spin."
 		""
@@ -114,7 +103,7 @@
 	quest.37ACE42A6E56EE78.quest_desc: [
 		"A spell book is a vital tool for your progression. With a spell book in hand, you're able to assemble spells and start expanding your access to what are known as &dglyphs&r. You may be able to see the recipe for a novice spell book by using the search bar at the bottom in your inventory."
 		""
-		"Once you complete this quest, you'll gain access to a chapter where you can see your glyph collection progress, and can then start undertaking quests to explore kinetics and magic. Look to the quests on the left and right when you're there."
+		"Once you complete this quest, you'll gain access to a chapter where you can see your spell book progress. To the left and the right are quests that encourage you to explore Create and Ars Nouveau, two essential arts for the rest of the journey."
 		""
 		"Note that regardless of which path you take, &othere is always progress to be made in your spell book&r. You'll find that it takes both to achieve true mastery."
 	]
@@ -127,18 +116,17 @@
 	]
 	quest.3BDBF23537BF3037.quest_subtitle: "Obtain Andesite Casing, a covering for many machines."
 	quest.3BDBF23537BF3037.title: "Encased"
+	quest.3BEC538A9BE1509B.quest_desc: [""]
 	quest.3BEC538A9BE1509B.title: "Continuums"
 	quest.3CBEA2C1D369902B.quest_desc: [
-		"Let's hope you got plenty of iron, zinc, and andesite for what comes next, for you'll be needing it to craft a &7particular alloy&r."
+		"Let's hope you got plenty of iron, zinc, and andesite, for you'll be needing it to craft &7Andesite Alloy&r. You may craft it by hand at first, and then later can mix it to be more efficient."
 		""
-		"When you're ready to see what kinetic machines hold for you with Create, &echeck off this quest and the questline will be revealed&r."
+		"Kinetic machines are powered by Rotational Force, generated by such things like windmills and waterwheels. &6Explore the Ponders, and you will see what I mean.&r This will be essential for the rest of your journey."
+		""
+		"Now then, enjoy working with Create!"
 	]
 	quest.3CBEA2C1D369902B.quest_subtitle: "Unleash your inner artificer."
-	quest.3D8E9E241C26E7FD.quest_desc: [
-		"Normally a decorative material, you'll find some uses for copper later on, including &9fluid transfer&r and conducting lightning. Try to keep a good supply of these."
-		""
-		"Speaking of lightning, caution must be advised. &oStray piles of copper may not be a good sign&r."
-	]
+	quest.3D8E9E241C26E7FD.quest_desc: ["Normally a decorative material, you'll find some uses for copper later on, including &9fluid transfer&r and conducting lightning. Try to keep a good supply of these."]
 	quest.3D8E9E241C26E7FD.quest_subtitle: "Obtain copper ingots."
 	quest.3D8E9E241C26E7FD.title: "Find Copper"
 	quest.4024E50852C08BF7.quest_desc: [
@@ -153,16 +141,10 @@
 	quest.40CCBA2B93A87314.quest_desc: [
 		"A deeply precious gem responsible for some of the most excellent armaments. But it's also, sometimes, used in magic for expensive crafts."
 		""
-		"Mine &oat least&r one diamond to hold onto for later, as it'll be necessary for a &every important magical apparatus&r."
+		"Mine &oat least&r one diamond to hold onto for later, as it'll be necessary for an &eEnchanting Apparatus&r."
 	]
 	quest.40CCBA2B93A87314.quest_subtitle: "Diiiaaaaaaaaaamonds."
 	quest.40CCBA2B93A87314.title: "Find Diamonds"
-	quest.41A6C9ABFF64B412.quest_desc: [
-		"No longer are those middling mana concerns. With a creative spellbook, you have access to a complete arsenal of glyphs and infinite mana, allowing you to make any spell you wish, limited only by glyph slots. "
-		""
-		"You have reached the true end goal of Threads of Time. You've come a long way. Thank you for playing!"
-	]
-	quest.41A6C9ABFF64B412.quest_subtitle: "Craft the ultimate power: a creative spellbook."
 	quest.4A1F344B45B7ACC9.quest_desc: [
 		"With a mage's spell book, you gain access to &dTier II&r glyphs, which enable you to make powerful offensive spells and even some new automation ones."
 		""
@@ -180,7 +162,11 @@
 	quest.4F05BC92B1ADC23D.quest_desc: [
 		"Have you made sure you have plenty of gold, diamonds, gems, and archwood? I sure hope you have."
 		""
-		"When you're ready to start progressing through the magic of Ars Nouveau (New Art), &echeck this off and the questline will be revealed&r. "
+		"&6Check this quest off to obtain a Tattered Tome&r. You will be needing this as your guidance through Ars Nouveau. After all, you will be on your own from now on."
+		""
+		"One of your first crafts will be an Imbuement Chamber. Make one to make either lapis or amethyst into &dSource Gems&r. Once you have that, the rest should come naturally. If you're ever confused, look over the tome."
+		""
+		"Hope you enjoy making magic with Ars Nouveau!"
 	]
 	quest.4F05BC92B1ADC23D.quest_subtitle: "Ready for more magic?"
 	quest.4F05BC92B1ADC23D.title: "Magical Potential"
@@ -193,20 +179,29 @@
 	]
 	quest.55E0EDCF1B04ABE1.quest_subtitle: "Start from here!"
 	quest.55E0EDCF1B04ABE1.title: "Foreword"
+	quest.57B1A94412EC30FB.quest_desc: [
+		"Tempads are fascinating handheld devices capable of allowing travel over infinite distances, and even across dimensions."
+		""
+		"To operate Tempads however, you will need to accumulate a new resource known as Chronons. Chronons are passively generated using either a Chronometer or a Chronon Generator in your inventory (however, having both will cancel each other out and not generate anything)."
+		""
+		"Time Steel will also be valuable later on."
+	]
+	quest.57B1A94412EC30FB.quest_subtitle: "Craft Time Steel and gain access to Tempads."
+	quest.57B1A94412EC30FB.title: "Peculiar Steel"
 	quest.590913B50C6A10C3.quest_desc: [
 		"With a novice's spell book, you have access to &dTier I&r glyphs, which allow you to make convenience spells such as reusable lights, block breaking, and some which deal damage."
 		""
 		"To begin making glyphs, &lyou must make a Scribe's Table&r. This can be done with only a little gold and archwood. Once you have one, right-click the table with your spell book to choose a glyph to craft."
 		""
-		"You may also upgrade your spell book. There are two dimensions you will have to visit for the next upgrade: &cthe Nether&r and &athe Undergarden&r. You can expect to visit the Nether with flint and steel on an obsidian frame, but for the Undergarden, you will need a Catalyst and a stone brick frame. &oStrange things await you in these places...&r"
+		"You may also upgrade your spell book. You will have to visit &cthe Nether&r to unlock the next tier."
 	]
 	quest.590913B50C6A10C3.quest_subtitle: "Craft a novice spell book."
 	quest.5B93F68887FEFDB8.quest_desc: [
 		"&6Andesite Alloy&r is the most basic and necessary resource for making kinetic contraptions and machines. You can craft it by placing iron or zinc nuggets&r and andesite into a crafting grid."
 		""
-		"With Andesite Alloy, you should start making &9cogwheels&r and &9shafts&r. These are your means to relaying &9Rotational Force&r, unique to kinetic machines. As stated before, you can find the recipes for these with the interface shown when viewing your inventory."
+		"With Andesite Alloy, you should start making &9cogwheels&r and &9shafts&r. These are your means to relaying &9Rotational Force&r, unique to kinetic machines."
 		""
-		"To generate &9Rotational Force&r, for now, you'll want to craft either a water wheel or a hand crank. These have their own methods of generating power and are explained in the quests below."
+		"To generate &9Rotational Force&r, for now, you'll find some options to the left. These have their own methods of generating power and are explained in their respective quests."
 	]
 	quest.5B93F68887FEFDB8.quest_subtitle: "Obtain Andesite Alloy, the basis of all kinetics."
 	quest.5B93F68887FEFDB8.title: "Sturdier Rocks"
@@ -243,23 +238,26 @@
 	]
 	quest.6AEDE9BF5F786504.quest_subtitle: "Craft a Wrench, allowing you to pick up machines with a right-click!"
 	quest.6AEDE9BF5F786504.title: "Properly Equipped"
-	quest.71FCD5CADB1CA4C9.quest_desc: [
-		"Silver possesses some excellent value in making gear, and as such can be a great alternative to iron in this circumstance. Hold onto some for a few recipes down the line. "
-		""
-		"Curiously enough, &othere are certain winged beings that have a penchant for hoarding silver&r..."
-	]
+	quest.71FCD5CADB1CA4C9.quest_desc: ["Unlike iron, silver doesn't have a use in making tools or armor. However, it &odoes&r have a use in the &eoccult&r..."]
 	quest.71FCD5CADB1CA4C9.quest_subtitle: "Obtain silver ingots."
 	quest.71FCD5CADB1CA4C9.title: "Find Silver"
+	quest.764CA2586660AAEE.quest_desc: [
+		"Just Dire Things consist of utilities that make certain automations easier, and also fun new gadgets. But to get started, you will need to make Primogel Goo and feed it an item. Then, you will need to place a block next to the goo in order to spread it, which will happen slowly over time."
+		""
+		"EMI has recipes for which blocks are valid to spread goo onto. Check them out!"
+	]
+	quest.764CA2586660AAEE.quest_subtitle: "Craft Primogel Goo and gain access to Just Dire Things."
+	quest.764CA2586660AAEE.title: "Primordial Goo"
 	quest.7869EDE8C1E4DC2F.quest_desc: [
 		"Now we must further expand our reach. A moment will only carry us so far. To craft an Epoch, we must now tap into events in time and combine such elements together using sequenced assembly."
 		""
 		"In the past, &cthese ancient archwood trees were once all that existed&r, until events long past led to great loss. Hone yourself to these events, for such powerful magic will lead you forward."
 		""
-		"You will need to make use of liquefied Source at this stage. You have a few different ways of making it, either directly or by using a Source Condenser."
+		"At this stage, you will need to take advantage of all your tools. Expect to be needing spell turrets. &6Just Dire Things&r will also be quite valuable."
 	]
 	quest.7869EDE8C1E4DC2F.title: "Epochs"
 	quest.7AE6C3289F250082.quest_desc: [
-		"&6Threads of Time&r is an open-ended artificing experience, focused on the art of magitech and the &6power of time&r. There is no strict linear progression, as most of the pack is available to you right from the start. Though don't let it overwhelm you, for this quest book is here to help you."
+		"&6Threads of Time&r is an open-ended artificing experience, focused on the art of magitech and the &6power of time&r. As most mods are ungated, most of the pack is available to you right from the start. Though don't let it overwhelm you, for this quest book is here to help you."
 		""
 		"The following quests serve as a guided introduction into the modpack. Please note that the modpack is still being developed, so new additions may come in the future!"
 		""

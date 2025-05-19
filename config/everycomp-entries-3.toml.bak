@@ -1,17 +1,6 @@
 #Disables certain types. Note that all these configs, like in any other mod, only hide stuff from tabs and disable their recipes
 [types]
 
-		[types.wood_type.ars_nouveau]
-			archwood = true
-
-		[types.wood_type.deeperdarker]
-			echo = true
-
-		[types.wood_type.undergarden]
-			smogstem = true
-			wigglewood = true
-			grongle = true
-
 		[types.wood_type.biomesoplenty]
 			fir = true
 			pine = true
@@ -27,25 +16,11 @@
 			hellbark = true
 			empyreal = true
 
-		[types.leaves_type.ars_nouveau]
-			blue_archwood = true
-			green_archwood = true
-			purple_archwood = true
-			red_archwood = true
+		[types.wood_type.cataclysm]
+			chorus = true
 
-		[types.leaves_type.deeperdarker]
-			echo = true
-
-		[types.leaves_type.undergarden]
-			smogstem = true
-			wigglewood = true
-			grongle = true
-
-		[types.leaves_type.ars_elemental]
-			yellow_archwood = true
-
-		[types.leaves_type.occultism]
-			otherworld = true
+		[types.wood_type.ars_nouveau]
+			archwood = true
 
 		[types.leaves_type.biomesoplenty]
 			origin = true
@@ -69,6 +44,22 @@
 			umbran = true
 			hellbark = true
 			empyreal = true
+
+		[types.leaves_type.occultism]
+			otherworld = true
+
+		[types.leaves_type.ars_nouveau]
+			blue_archwood = true
+			green_archwood = true
+			purple_archwood = true
+			red_archwood = true
+
+		[types.leaves_type.ars_elemental]
+			yellow_archwood = true
+
+		[types.cake.createaddition]
+			chocolate_cake = true
+			honey_cake = true
 
 #Disables specific entries
 [entries]
@@ -95,10 +86,6 @@
 			toilet = true
 			storage_jar = true
 
-		[entries.wood_type.create]
-			window = true
-			window_pane = true
-
 		[entries.wood_type.farmersdelight]
 			cabinet = true
 
@@ -110,6 +97,10 @@
 			half_drawers_4 = true
 			half_drawers_2 = true
 			full_drawers_1 = true
+
+		[entries.wood_type.create]
+			window = true
+			window_pane = true
 
 		[entries.leaves_type.refurbished_furniture]
 			hedge = true

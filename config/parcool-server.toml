@@ -27,6 +27,8 @@
 		permit_VerticalWallRun = true
 		permit_WallJump = true
 		permit_WallSlide = true
+		permit_HideInBlock = true
+		permit_RideZipline = true
 
 	[Limitations.Stamina]
 		#Allowed Values: NONE, PARCOOL, HUNGER
@@ -115,6 +117,12 @@
 			# Default: 8
 			# Range: 0 ~ 10000
 			stamina_consumption_of_WallSlide = 8
+			# Default: 0
+			# Range: 0 ~ 10000
+			stamina_consumption_of_HideInBlock = 0
+			# Default: 2
+			# Range: 0 ~ 10000
+			stamina_consumption_of_RideZipline = 2
 
 	[Limitations.Control]
 		#Allow disabling cooldown of wall jump

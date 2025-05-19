@@ -1,0 +1,60 @@
+#.
+[extendedInventory]
+	#.
+	#todo
+	safeMode = true
+
+#.
+[processing]
+	#.
+	#Ageing Recipes are possible in Vanilla Barrels (and modded Barrels which extend it)
+	ageingInVanillaBarrels = true
+
+#.
+[contamination]
+	#.
+	#Simple shaped Crafting Recipes will propagate the inputs' Contaminants to the outputs, regardless of what they are crafted in
+	propagateShapedCrafting = true
+	#.
+	#Simple shapeless Crafting Recipes will propagate the inputs' Contaminants to the output, regardless of what they are crafted in
+	propagateShapelessCrafting = true
+	#.
+	#Recipes done in Crafting Tables and the Inventory will propagate the inputs' Contaminants to the the output
+	#This can include simple shaped and shapeless Crafting Recipes, as well as custom ones like crafting Firework Stars
+	propagateCraftingTable = true
+	#.
+	#Smelting, Blasting, Smoking etc. Recipes will propagate the Contaminants of the input to the output
+	propagateCooking = true
+	#.
+	#Brewing will propagate the Contaminants of inputs to the resultant Potion
+	propagateBrewing = true
+	#.
+	#The Contaminants of a Potion brewed from a Water Bottle depend only on the Contaminants of the added ingredient, not the Water Bottle
+	brewingIgnoreWaterBottle = true
+	#.
+	#Smithing will propagate the Contaminants of the base Item and added Item to the result
+	propagateSmithing = true
+
+	#.
+	[contamination.create]
+		#.
+		#How many mB of Fluid should be considered to be equal to one Item when weighting preserved Contaminants in any Recipes involving Fluids
+		#Set to 0 to not count the Contaminants of input Fluids. Contaminants will still propagate to output Fluids.
+		# Default: 100.0
+		# Range: 0.0 ~ 3.4028234663852886E38
+		fluidWeight = 100.0
+		#.
+		#Recipes done in a Basin will propagate the Contaminants of the input to the outputs
+		propagateBasin = true
+		#.
+		#Recipes done by Millstones and Crushing Wheels will propagate the Contaminants of the input to the outputs
+		propagateCrushing = true
+		#.
+		#Manual Sandpaper Polishing Recipes will propagate the Contaminants of the input to the output
+		propagateSanding = true
+		#.
+		#Cutting Recipes will propagate the Contaminants of the input to the output
+		propagateCutting = true
+		#.
+		#Pressing, Deploying, Washing and all Mechanical Fan Recipes propagate the Contaminants of the input to the outputs
+		propagateOther = true

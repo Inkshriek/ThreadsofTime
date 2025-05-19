@@ -1,50 +1,50 @@
 /reload
-/locate biome biomesoplenty:erupting_inferno
+/locate biome biomesoplenty:origin_valley
 /reload
-/reloaed
+/gamerule doInsomnia false
+/kill @e[type=minecraft:phantom]
 /reload
-/locate structure iceandfire:lightning_dragon_roost
-/tp @s -208 ~ -2992
-/locate structure iceandfire:fire_dragon_roost
-/tp @s -208 ~ -2896
+/kill @e[type=minecraft:trader_llama]
+/kill @e[type=minecraft:wandering_trader]
+/defaultoptions saveAll
+/kill @e[type=villager]
+/gamerule doWeatherCycle false
 /reload
-/locate structure iceandfire:lightning_dragon_roost
-/tp @s -208 ~ -2992
-/reload
-/kill @e[type=ars_nouveau:wilden_boss]
-/reload
-/loot give Inkshriek kill Inkshriek
-/loot give Inkshriek loot minecraft:entities/wither_skeleton
-/reload
-/data get entity @p Inventory[{Slot:0b}]
-/reload
-/data get entity @p Inventory[{Slot:0b}]
-/reload
-/data get entity @p Inventory[{Slot:0b}]
-/reload
-/relaod
-/reload
-/enchant Inkshriek minecraft:silk_touch
+/kubejs
+/kubejs errors server
 /reload
 /relaod
 /reload
 /relaod
 /reload
-/reoad
+/data get block -17 69 -56
+/data get block -17 68 -56
+/data get block -17 70 -56
+/data get entity @s SelectedItem
+/data get block -17 69 -57
+/data get block -4 70 -69
+/data get block -4 69 -69
+/gamemode survival
+/kubejs errors server
 /reload
-/kubejs reload client-scripts
+/kubejs errors server
 /reload
-/time set day
+/kubejs errors server
 /reload
-/relaod
-/reload
-/data get entity @p Inventory[{Slot:0b}]
-/xp set Inkshriek 1000 levels
-/data get entity @p Inventory[{Slot:0b}]
-/gamerule doMobSpawning false
 /gamerule doWeatherCycle false
 /gamerule doDaylightCycle false
-/gamerule doTraderSpawning false
+/reload
+/relaod
+/reload
+/relaod
+/reload
+/relaod
+/reload
+/kubejs errors serverf
+/kubejs errors server
 /reload
 /kubejs reload client-scripts
+/reload
+/defaultoptions saveKeys
+/defaultoptions saveServers
 /reload

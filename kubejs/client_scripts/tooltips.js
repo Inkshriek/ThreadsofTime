@@ -31,6 +31,9 @@ ItemEvents.modifyTooltips(e => {
     ], Text.of("Generates AE using Source").white() );
     */
     e.add([
+        "starbunclemania:source_fluid_bucket"
+    ], Text.of("Source made into a fluid form, usable in recipes and fluid tanks. Made via a Source Condenser or via crafting.").white() );
+    e.add([
         "kubejs:void_essence"
     ], Text.of("Magical Essences created in an Imbuement Chamber.").white() );
     e.add([
@@ -49,6 +52,22 @@ ItemEvents.modifyTooltips(e => {
         "create:water_wheel"
     ], Text.of("Try combining with a Starbuncle Charm!").yellow() );
     e.add([
+        "supplementaries:wrench"
+    ], Text.of("Rotates blocks!").white() );
+    e.add([
+        "refurbished_furniture:wrench"
+    ], Text.of("Connects appliances which use an Electricity Generator.").white() );
+    e.add([
+        "ars_additions:warp_index",
+        "ars_additions:stabilized_warp_index"
+    ], Text.of("Accesses a Storage Lectern remotely.").white() );
+    e.add([
+        "torcherino:torcherino"
+    ], Text.of("Accelerates blocks in an area around it.").white() );
+    e.add([
+        "ars_additions:stabilized_warp_index"
+    ], Text.of("Usable cross-dimensionally.").white() );
+    e.add([
         "refurbished_furniture:white_grill",
         "refurbished_furniture:orange_grill",
         "refurbished_furniture:magenta_grill",
@@ -65,5 +84,5 @@ ItemEvents.modifyTooltips(e => {
         "refurbished_furniture:green_grill",
         "refurbished_furniture:red_grill",
         "refurbished_furniture:black_grill",
-    ], Text.of("Add charcoal to start cooking.").white() );
+    ], Text.of("Add charcoal to start cooking!").yellow() );
 }) 
