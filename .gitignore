@@ -14,3 +14,7 @@ patchouli_books/
 downloads/
 command_history.txt
 minecraftinstance.json
+debug/
+shaderpacks/
+resourcepacks/
+.mixin.out/
